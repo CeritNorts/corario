@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "buildNumber": 2,
-  "changelog": "¡Ahora puedes compartir cantos de forma nativa, los cultos se guardan automáticamente y añadimos el sistema de alertas de actualización!"
+  "version": "1.2.0",
+  "buildNumber": 3,
+  "changelog": "¡Gran rediseño visual de la pantalla de inicio! Añadimos saludos dinámicos, indicador de tonos musicales y acceso rápido al último culto."
 }

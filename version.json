@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "buildNumber": 3,
-  "changelog": "¡Gran rediseño visual de la pantalla de inicio! Añadimos saludos dinámicos, indicador de tonos musicales y acceso rápido al último culto."
+  "version": "1.3.0",
+  "buildNumber": 4,
+  "changelog": "¡Probando el sistema de descarga automática estilo Snaptube sin salir de la app!"
 }
